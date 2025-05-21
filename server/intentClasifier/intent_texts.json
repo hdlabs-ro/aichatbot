@@ -1,0 +1,55 @@
+{
+    "texts":[
+        "hello",
+        "hi",
+        "hey",
+        "good morning",
+        "hello there",
+        "hi!",
+        "hey bot",
+        "good evening",
+        "Hey, anyone here?",
+        "What's up?",
+        "Is anyone here?",
+        "Hi there!",
+        "what's the weather like today?",
+        "tell me more about your company",
+        "what kind of products do you sell?",
+        "Who owns this store?",
+        "Do you have physical stores?",
+        "Is this a real business?",
+        "What kind of products do you sell?",
+        "Is this an international platform?",
+        "Hello, Do you have a mobile app?",
+        "Hello! can you nelp me please?",
+
+
+        "How do I recycle Nespresso capsules?",
+        "Where can I find Nespresso recycling bags?",
+        "Can I return used capsules by mail?",
+        "What should I do with my used pods?",
+        "How does the Nespresso recycling program work?",
+        "Can I drop off capsules in a Nespresso store?",
+        "Where are your capsule collection points?",
+        "Is capsule recycling free?",
+        "How can I order a recycling bag?",
+        "Can I include used pods in my next delivery?",
+        "How long does delivery take?",
+        "What are the delivery options?",
+        "Can I get same-day delivery?",
+        "Do you ship internationally?",
+        "Is there a delivery fee?",
+        "Can I change my delivery address?",
+        "How do I track my Nespresso order?",
+        "I received the wrong items, what now?",
+        "What happens if I’m not home for delivery?",
+        "Do you deliver on weekends?"
+    ],
+
+    "classes":[
+        0,0,0,0,0,0,0,0,0,0,0,0,
+        0,0,0,0,0,0,0,0,0,0,
+        1,1,1,1,1,1,1,1,1,1,
+        1,1,1,1,1,1,1,1,1,1
+    ]
+}
