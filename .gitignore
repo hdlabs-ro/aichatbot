@@ -172,3 +172,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+chat_widget/node_modules/
+chat_widget/.next/
+chat_widget/out/
+chat_widget/.env.local
+chat_widget/.env.development.local
+chat_widget/.env.test.local
+chat_widget/.env.production.local
+chat_widget/npm-debug.log*
+chat_widget/yarn-debug.log*
+chat_widget/yarn-error.log*
+chat_widget/.vscode/
+chat_widget/.DS_Store
